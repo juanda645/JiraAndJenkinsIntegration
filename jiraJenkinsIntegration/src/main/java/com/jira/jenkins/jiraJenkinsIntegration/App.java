@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello JIRA and Jenkins4" );
+    	int div=8/0;
+        System.out.println( "Divicion="+div );
     }
 }

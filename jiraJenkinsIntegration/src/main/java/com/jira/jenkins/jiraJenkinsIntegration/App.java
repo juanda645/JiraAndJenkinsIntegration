@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello JIRA and Jenkins" );
+        System.out.println( "Hello JIRA and Jenkins3" );
     }
 }
